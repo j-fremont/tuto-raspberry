@@ -5,19 +5,16 @@
 + tuto-3 : Caméra
 + tuto-4 : Capteur de mouvement avec caméra
 
-
 # GPIO
 
 ## Raspberry 5
 
-
+![Pictures/Raspberry_5_gpio.jpeg](https://github.com/j-fremont/tuto-raspberry/blob/main/Pictures/Raspberry_5_gpio.jpeg)
 
 # Librairie Python
 
 + Rpi.GPIO
 + gpiozero (https://gpiozero.readthedocs.io/en/stable/index.html)
-
-
 
 # Librairie C
 
