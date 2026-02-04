@@ -1,13 +1,11 @@
 # Tutoriels Raspberry
 
-+ tuto-1 : Controle d'une LED
-+ tuto-2 : Capteur de mouvement
-+ tuto-3 : Caméra
-+ tuto-4 : Capteur de mouvement avec caméra
-
++ tuto-1 : Faire clignoter une LED
++ tuto-2 : Allumer une LDE sur mouvement
++ tuto-3 : Utiliser une Caméra
++ tuto-4 : Déclenchement d'une caméra sur mouvement
 
 https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
-
 
 # GPIO
 
@@ -19,6 +17,10 @@ https://www.raspberrypi.com/documentation/computers/raspberry-pi.html
 
 + Rpi.GPIO
 + gpiozero (https://gpiozero.readthedocs.io/en/stable/index.html)
+
+## gpiozero
+
+Installer gpiozero (https://gpiozero.readthedocs.io/en/stable/installing.html).
 
 # Librairie C
 
